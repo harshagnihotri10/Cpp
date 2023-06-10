@@ -1,1 +1,1 @@
-This is my README 1 2 3 4 5 
+Here, are my codes that i learned in smartbridge extrenship in AI
