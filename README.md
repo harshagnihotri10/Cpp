@@ -1,1 +1,1 @@
-Here, are my codes that i learned in smartbridge extrenship in AI
+Here, are my codes that i practise to learn cpp.
